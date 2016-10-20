@@ -1,0 +1,7 @@
+---
+:backends:
+  - yaml
+:yaml:
+  :datadir: '/Users/drewjess/vagrant/puppet'
+:hierarchy:
+  - 'hieradata/defaults'
